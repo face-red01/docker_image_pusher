@@ -1,1 +1,2 @@
+# 拉取pig4cloud镜像
 pig4cloud/java:8-jre
